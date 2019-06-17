@@ -8,7 +8,7 @@
             <div class="text-center mb-4">
               <span class="ms-logo ms-logo-lg ms-logo-white center-block mb-2 mt-2 animated zoomInDown animation-delay-5">M</span>
               <h1 class="no-m ms-site-title color-white center-block ms-site-title-lg mt-2 animated zoomInDown animation-delay-5">Material
-                <span>Style</span>
+                <span>Styleeee</span>
               </h1>
               <p class="lead lead-lg color-white text-center center-block mt-2 mw-800 text-uppercase fw-300 animated fadeInUp animation-delay-7">Discover our projects and the
                 <span class="color-warning">rigorous process</span> of creation. Our principles are creativity, design, experience and knowledge.</p>
